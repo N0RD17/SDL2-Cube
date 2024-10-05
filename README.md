@@ -2,5 +2,5 @@
 Spinning Cube in SDL2.
 
 # DEPENDENCIES
-SDL2
+SDL2 <br>
 C math library (-lm)
